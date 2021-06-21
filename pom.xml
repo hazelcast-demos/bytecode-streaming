@@ -20,7 +20,7 @@
         <kotlin.code.style>official</kotlin.code.style>
         <maven.compiler.target>11</maven.compiler.target>
         <maven.compiler.source>11</maven.compiler.source>
-        <tomcat.version>10.0.2</tomcat.version>
+        <tomcat.version>10.0.7</tomcat.version>
     </properties>
     <build>
         <pluginManagement>
